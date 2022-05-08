@@ -4,4 +4,4 @@ Repositório de exemplos práticos da primeira semana no curso [Python Base](htt
 
 Semana adquirida de forma gratuita ao participar da [Python Week](https://www.youtube.com/watch?v=NqUC-G_Pu-o&list=PLf-O3X2-mxDlfAv8IOfic1sHArdwrrkgh) com Hosting do [Jeferson Fernando](https://github.com/badtuxx).
 
-Deixo aqui meu agradecimento à oportunidade a todos os envolvidos.
+Deixo aqui meu agradecimento pela oportunidade a todos os envolvidos.
