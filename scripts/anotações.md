@@ -7,3 +7,8 @@ No Python, o shebang é definido como:
 #!/usr/bin/env python
 ```
 Com o auxílio do shebang, o interpretador do Python será determinado automaticamente, tornando desnecessário que o usuário chame explicitamente o interpretador.
+
+# delta-git
+
+Extensão que ajudar melhor visualizar o histórico de commits.
+
